@@ -1,6 +1,6 @@
 
 # MMDGFAS
-Domain Generalization for Multi-Modal Face Anti-Spoofing via MixCropMask Augmenta- tion and Deep Hybrid-level Fusion
+Domain Generalization for Multi-Modal Face Anti-Spoofing via MixCropMask Augmentation and Deep Hybrid-level Fusion
 
 ## Overall framework diagram
 ![image](docs/main.png)
